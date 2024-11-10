@@ -7,3 +7,5 @@ When you want to change the appearance of a widget based on user interactions or
 When you want to create responsive UI elements that adapt to different screen sizes and orientations.
 ### Custom Widgets are used to create reusable UI components with their own logic and state.
 ### WidgetStateProperty is used to dynamically style and configure existing widgets based on their state.
+## Routes
+While route names themselves don't directly perform any actions,
