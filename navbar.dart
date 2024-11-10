@@ -29,3 +29,7 @@
           )
         ],
       ),
+/*
+Leading is for the things on the left of the app bar
+Action is for the things on the right of the app bar
+*/
