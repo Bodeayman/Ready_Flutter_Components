@@ -9,3 +9,5 @@ When you want to create responsive UI elements that adapt to different screen si
 ### WidgetStateProperty is used to dynamically style and configure existing widgets based on their state.
 ## Routes
 While route names themselves don't directly perform any actions,
+#####
+The h*ll is the difference between the column and the stack?
