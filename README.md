@@ -15,3 +15,4 @@ The h*ll is the difference between the column and the stack?
 ### Stack allows multiple elements to be above each other , depending on their arragnement
 ### Column , the elements should respect the distance between them
 We still have sometimes to take about Positioned
+Don't forget that Column and Row , have the mainAxisAlignment, which is similar like the flex in web
