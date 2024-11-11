@@ -16,3 +16,4 @@ The h*ll is the difference between the column and the stack?
 ### Column , the elements should respect the distance between them
 We still have sometimes to take about Positioned
 Don't forget that Column and Row , have the mainAxisAlignment, which is similar like the flex in web
+Grid is a great version of ListView
