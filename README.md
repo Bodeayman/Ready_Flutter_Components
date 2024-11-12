@@ -18,3 +18,5 @@ We still have sometimes to take about Positioned
 Don't forget that Column and Row , have the mainAxisAlignment, which is similar like the flex in web
 Grid is a great version of ListView
 Man, the h*ll different between ImageAssetand the Image.asset
+
+#### Yes, if you use multiple Consumer or Provider.of calls in the same widget tree, they will refer to the same instance of the provider, as long as the provider is defined at a higher level in the widget tree.
