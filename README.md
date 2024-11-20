@@ -20,3 +20,4 @@ Grid is a great version of ListView
 Man, the h*ll different between ImageAssetand the Image.asset
 
 #### Yes, if you use multiple Consumer or Provider.of calls in the same widget tree, they will refer to the same instance of the provider, as long as the provider is defined at a higher level in the widget tree.
+#### In Flutter, navigation and PageController by default do not have swiping navigation enabled unless you explicitly use a widget like PageView, which is designed to handle swipe-based page transitions.
