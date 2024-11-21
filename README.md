@@ -1,5 +1,7 @@
-# flu_repo
-Some useful components to remember the unlimited number of widgets
+# Welcome
+If you are learning flutter , so this repo is providing you 
+with some ready components to use , with some explaination for them,
+I recommend that you learn the basics of flutter , before going on this repo
 ## WidgetStateProperty
 Purpose: To dynamically style and configure widgets based on their current state.
 When to use:
