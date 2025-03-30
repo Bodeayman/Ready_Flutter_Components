@@ -23,3 +23,9 @@ Man, the h*ll different between ImageAssetand the Image.asset
 
 #### Yes, if you use multiple Consumer or Provider.of calls in the same widget tree, they will refer to the same instance of the provider, as long as the provider is defined at a higher level in the widget tree.
 #### In Flutter, navigation and PageController by default do not have swiping navigation enabled unless you explicitly use a widget like PageView, which is designed to handle swipe-based page transitions.
+### Somethings that related to the initState
+The initState() method is called once when a StatefulWidget is first created.
+It is useful for initializing variables, fetching data, and setting up controllers.
+initState() is executed once when the widget is created.
+It is not part of the widget tree and does not return or place a widget anywhere.
+Widgets must be built inside build() or returned inside another widget tree.
